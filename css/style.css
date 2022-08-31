@@ -1,0 +1,116 @@
+body {
+    background-color: #7D9D9C;
+}
+
+.navbar * {
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    color: #F0EBE3;
+}
+
+.diger-siteler * {
+    font-size: 30px;
+    border-color: white;
+    color: white;
+}
+
+.navbar-baslik h1 {
+    color: #F0E161;
+    font-size: 60px;
+    padding-bottom: 20px;
+
+}
+
+.ana-sayfa a {
+    width: auto;
+    padding: 10px;
+    margin-left: 500px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.navbar-diziler a {
+    border-style: solid;
+    border-radius: 20px;
+    width: auto;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.hakkimizda a {
+    width: auto;
+    padding: 10px;
+    margin-right: 500px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.diger-siteler a:hover {
+    background-color: #576F72;
+}
+
+.paragraf {
+    color: #E4DCCF;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.list {
+    text-align: center;
+}
+
+.kategoriler {
+    display: inline-block;
+    text-align: left;
+    font-size: 40px;
+    color: #E4DCCF;
+
+}
+
+
+.diziler {
+    display: flex;
+}
+
+.diziler img {
+    width: 500px;
+    height: 800px;
+}
+
+.diziler-left * {
+    width: 500px;
+    padding-left: 30px;
+}
+
+.baslik {
+    font-size: 30px;
+    color: maroon;
+}
+
+.aciklama {
+    font-size: 25px;
+    color: khaki;
+}
+
+
+
+.diziler-right * {
+    padding-left: 400px;
+}
+
+.hakkimizda-aciklama {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 100px;
+    color: gold;
+    font-size: 20px;
+}
+
+.hakkimizda-aciklama p {
+    color: antiquewhite;
+}
